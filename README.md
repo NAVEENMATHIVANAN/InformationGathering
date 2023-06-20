@@ -36,18 +36,23 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 ping saveetha.ac.in
 ```
 ## OUTPUT:
-![image](https://github.com/NAVEENMATHIVANAN/InformationGathering/assets/119394582/9ce97d42-44db-4373-87e3-8de9155fdcf2)
+
+![finding](https://github.com/NAVEENMATHIVANAN/InformationGathering/assets/119394582/81e82379-ca59-49ec-afad-f7cd5e2b50c3)
+
 
 ## FINDING HOST COMPANY:
 get further detail by using ip2location.com website.
 
 ## OUTPUT:
-![image](https://github.com/NAVEENMATHIVANAN/InformationGathering/assets/119394582/b8299c88-14b8-46f1-b8f7-3ee3a06a9bca)
+![image](https://github.com/NAVEENMATHIVANAN/InformationGathering/assets/119394582/6a193bb6-9c8f-42b0-913a-1efb863d5732)
+
 
 ## History of the website:
 ## OUTPUT:
 https://web.archive.org/
-![image](https://github.com/NAVEENMATHIVANAN/InformationGathering/assets/119394582/7087800f-59c5-4162-90df-1abcbacf4524)
+
+![image](https://github.com/NAVEENMATHIVANAN/InformationGathering/assets/119394582/3dcca92f-cb96-4011-8a00-711a50a7259a)
+
 
 ## Webserver Fingerprinting:
 ## Netcat:
